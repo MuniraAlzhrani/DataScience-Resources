@@ -413,4 +413,5 @@ ________________________________________________________________________________
 
 
 ## :orange_book:Interview Resources:
+- [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
 - [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) 
