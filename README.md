@@ -268,8 +268,9 @@ ________________________________________________________________________________
 - [Basics of ML](https://www.mltut.com/machine-learning/)
 - [Machine Learning Algorithms For Beginners](https://pub.towardsai.net/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
 - [Beginner’s Guide for Getting Started with Machine Learning](https://medium.com/analytics-vidhya/a-beginners-guide-for-getting-started-with-machine-learning-7ba2cd5796ae)
-- [ المفاهيم الأساسية لتعلم الآلة](https://academy.hsoub.com/programming/artificial-intelligence/%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9-r1009/#%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D9%87)
-شرح رهيب عن تعلم الالة وانواعه والخوازميات المستخدمة  
+- [ المفاهيم الأساسية لتعلم الآلة](https://academy.hsoub.com/programming/artificial-intelligence/%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%87%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9-r1009/#%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D9%87)شرح رهيب عن تعلم الالة وانواعه والخوازميات المستخدمة 
+- [لماذا نريد للآلات أن تتعلم؟](https://github.com/RiadKatby/machine-learning-models/blob/main/machine-learning-for-everyone.md)
+
 #### 2- Online Courses on Platform and YouTube 
 - [ What Is Machine Learning](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) 
 - [Machine Learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
@@ -395,7 +396,7 @@ ________________________________________________________________________________
 - [@Dr_Hmood (Arabic)](https://twitter.com/Dr_Hmood)
 - [@zayton_mohammad (Arabic)](https://twitter.com/zayton_mohammad)
 - [@Dr_Mejdal (Arabic)](https://mobile.twitter.com/Dr_Mejdal)
-
+- [@Al_azwari](https://twitter.com/Al_azwari)
 
 ### Telgram  Channels :
 
