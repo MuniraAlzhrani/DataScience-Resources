@@ -405,6 +405,7 @@ ________________________________________________________________________________
 - [Data Science by ODS.ai 🦜](https://twitter.com/brajabq/status/1332267946341588993?s=21&t=g4Ad_MizTGHAymoPM6WczA)
 - [Programming eBooks](https://twitter.com/brajabq/status/1332267935054712832?s=21&t=vddfI9eKxaoS-rGo8MTl5Q)
 - [Data Falir](https://twitter.com/brajabq/status/1332267932441710592?s=21&t=TQeCL4vEVqu7MdVFxT0Reg)
+- [Saudi Data Professionals](https://t.me/DataProfessionalSA)  هالقناة توصية من احد الاشخاص ينزل فيها مشاريع متعلقة بعلم البيانات ولو عندك مشروع تبي تنزله تقدر تتواصل مع صاحب القناة
 
 ### :radio:	Podcast :
 - [Data Science بالعربي](https://podcasts.apple.com/us/podcast/data-science-%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/id1636340097)
