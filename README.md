@@ -10,6 +10,7 @@
 ######  {نصيحة : إذا بتأخذون كورس ابحثوا عن الكورسيز اللي لها مسار عشان ما تتشتتون وتصير المواضيع اللي هنا لتنمية مهاراتكم } :brain:   [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python?irclickid=xffwuwR2JxyLWmMwUx0Mo3EPUkDUtHQn4z1Y1s0&irgwc=1&utm_medium=affiliate&utm_source=impact&utm_campaign=000000_1-1310690_2-mix_3-all_4-na_5-na_6-na_7-mp_8-affl-ip_9-na_10-bau_11-Admitad%20-%201310690&utm_content=TEXT_LINK)  مثل هالمسار
 
 
+### :female_detective:	سيتم تحديث الملف بشكل دوري 
 
 </br>
 <div id="header" align="center">
@@ -17,37 +18,39 @@
 </div>
 
 ## Table of Contents المحتويات  :
-:white_check_mark: [What Is Data Science ?](https://github.com/MuniraAlzhrani/si/new/main?readme=1#interrobang-what-is-data-science) 
+:white_check_mark: [What Is Data Science ?](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#interrobang-what-is-data-science)
 
-:white_check_mark: [Python Basics  أساسيات البايثون](https://github.com/MuniraAlzhrani/si/new/main?readme=1#snake1--python-basics--%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86)
+:white_check_mark: [Python Basics  أساسيات البايثون](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#snake1--python-basics--%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86)
 
-:white_check_mark: [Mathematical Statistics for Data Science](https://github.com/MuniraAlzhrani/si/new/main?readme=1#chess_pawn-2--mathematical-statistics-for-data-science)
+:white_check_mark: [Mathematical Statistics for Data Science](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#chess_pawn-2--mathematical-statistics-for-data-science)
 
-:white_check_mark: [SQL](https://github.com/MuniraAlzhrani/si/new/main?readme=1#mag-3--sql)
+:white_check_mark: [SQL](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#mag-3--sql)
 
-:white_check_mark: [Data Resources](https://github.com/MuniraAlzhrani/si/new/main?readme=1#card_index_dividers-4--data-resources--%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA)
+:white_check_mark: [Data Resources](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#card_index_dividers-4--data-resources--%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA)
 
-:white_check_mark: [Data Science Life Cycle](https://github.com/MuniraAlzhrani/si/new/main?readme=1#recycle5--data-science-life-cycle--)
+:white_check_mark: [Data Science Life Cycle](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#recycle5--data-science-life-cycle--)
 
-:white_check_mark: [Exploratory Data Analysis and Cleaning Data](https://github.com/MuniraAlzhrani/si/new/main?readme=1#chart_with_upwards_trend-broom51-exploratory-data-analysis-eda--and-cleaning-data--)
+:white_check_mark: [Exploratory Data Analysis and Cleaning Data](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#chart_with_upwards_trend-broom51-exploratory-data-analysis-eda--and-cleaning-data--)
 
-:white_check_mark: [Machine Learning](https://github.com/MuniraAlzhrani/si/new/main?readme=1#mechanical_arm52-machine-learning-)
+:white_check_mark: [Machine Learning](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#mechanical_arm52-machine-learning-)
 
-:white_check_mark: [Natural Language Processing](https://github.com/MuniraAlzhrani/si/new/main?readme=1#studio_microphone53-natural-language-processing-nlp-)
+:white_check_mark: [Natural Language Processing](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#studio_microphone53-natural-language-processing-nlp-)
 
-:white_check_mark: [Deep Learning](https://github.com/MuniraAlzhrani/si/new/main?readme=1#robot-54-deep-learning)
+:white_check_mark: [Deep Learning](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#robot-54-deep-learning)
 
-:white_check_mark: [Treasure (محتويات ثرية)](https://github.com/MuniraAlzhrani/si/new/main?readme=1#old_keytreasure-%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D8%AB%D8%B1%D9%8A%D8%A9)
+:white_check_mark: [Treasure (محتويات ثرية)](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#old_keytreasure-%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D8%AB%D8%B1%D9%8A%D8%A9)
 
-:white_check_mark: [Support Resources](https://github.com/MuniraAlzhrani/si/new/main?readme=1#revolving_heartssupport-resources-)
+:white_check_mark: [Support Resources](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#revolving_heartssupport-resources-)
 
-:white_check_mark: [Practice & Competitions](https://github.com/MuniraAlzhrani/si/new/main?readme=1#medal_militarypractice--competitions)
+:white_check_mark: [Practice & Competitions](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#medal_militarypractice--competitions)
 
-:white_check_mark: [Research Papers](https://github.com/MuniraAlzhrani/si/new/main?readme=1#bookmark_tabsresearch-papers-)
+:white_check_mark: [Research Papers](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#bookmark_tabsresearch-papers-)
 
-:white_check_mark: [Social Media](https://github.com/MuniraAlzhrani/si/new/main?readme=1#social-media)
+:white_check_mark: [Social Media](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#social-media)
 
-:white_check_mark: [Interview Resources](https://github.com/MuniraAlzhrani/si/new/main?readme=1#orange_bookinterview-resources)
+:white_check_mark: [Interview Resources](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#orange_bookinterview-resources)
+
+:white_check_mark: [Data Science Infographic](https://github.com/MuniraAlzhrani/DataScience-Resources/edit/main/README.md#framed_picture-data-science-infographic)
 
 ## :interrobang:	 What is Data Science:
 
@@ -416,3 +419,15 @@ ________________________________________________________________________________
 ## :orange_book:Interview Resources:
 - [data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews)
 - [Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) 
+
+## :framed_picture:	 Data Science Infographic:
+- [ Infographic :artist:	](https://github.com/dataprofessor/infographic)                                                                                                                    
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                 
+                                                                                                                                   
